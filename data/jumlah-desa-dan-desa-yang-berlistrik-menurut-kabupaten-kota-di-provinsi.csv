@@ -1,0 +1,231 @@
+bps_kode_provinsi;bps_nama_provinsi;bps_kode_kabupaten_kota;bps_nama_kabupaten_kota;tahun;kategori;jumlah;satuan
+11;Aceh;1101;Kabupaten Simeulue;2014;jumlah_desa;137;unit
+11;Aceh;1102;Kabupaten Aceh Singkil;2014;jumlah_desa;116;unit
+11;Aceh;1103;Kabupaten Aceh Selatan;2014;jumlah_desa;248;unit
+11;Aceh;1104;Kabupaten Aceh Tenggara;2014;jumlah_desa;385;unit
+11;Aceh;1105;Kabupaten Aceh Timur;2014;jumlah_desa;511;unit
+11;Aceh;1106;Kabupaten Aceh Tengah;2014;jumlah_desa;295;unit
+11;Aceh;1107;Kabupaten Aceh Barat;2014;jumlah_desa;321;unit
+11;Aceh;1108;Kabupaten Aceh Besar;2014;jumlah_desa;604;unit
+11;Aceh;1109;Kabupaten Pidie;2014;jumlah_desa;727;unit
+11;Aceh;1110;Kabupaten Bireuen;2014;jumlah_desa;609;unit
+11;Aceh;1111;Kabupaten Aceh Utara;2014;jumlah_desa;852;unit
+11;Aceh;1112;Kabupatan Aceh Barat Daya;2014;jumlah_desa;132;unit
+11;Aceh;1113;Kabupaten Gayo Lues;2014;jumlah_desa;136;unit
+11;Aceh;1114;Kabupaten Aceh Tamiang;2014;jumlah_desa;213;unit
+11;Aceh;1115;Kabupaten Nagan Raya;2014;jumlah_desa;222;unit
+11;Aceh;1116;Kabupaten Aceh Jaya;2014;jumlah_desa;172;unit
+11;Aceh;1117;Kabupaten Bener Meriah;2014;jumlah_desa;232;unit
+11;Aceh;1118;Kabupaten Pidie Jaya;2014;jumlah_desa;222;unit
+11;Aceh;1171;Kota Banda Aceh;2014;jumlah_desa;90;unit
+11;Aceh;1172;Kota Sabang;2014;jumlah_desa;18;unit
+11;Aceh;1173;Kota Langsa;2014;jumlah_desa;66;unit
+11;Aceh;1174;Kota Lhokseumawe;2014;jumlah_desa;68;unit
+11;Aceh;1175;Kota Subulussalam;2014;jumlah_desa;74;unit
+11;Aceh;1101;Kabupaten Simeulue;2014;jumlah_desa_berlistrik;109;unit
+11;Aceh;1102;Kabupaten Aceh Singkil;2014;jumlah_desa_berlistrik;112;unit
+11;Aceh;1103;Kabupaten Aceh Selatan;2014;jumlah_desa_berlistrik;241;unit
+11;Aceh;1104;Kabupaten Aceh Tenggara;2014;jumlah_desa_berlistrik;369;unit
+11;Aceh;1105;Kabupaten Aceh Timur;2014;jumlah_desa_berlistrik;510;unit
+11;Aceh;1106;Kabupaten Aceh Tengah;2014;jumlah_desa_berlistrik;262;unit
+11;Aceh;1107;Kabupaten Aceh Barat;2014;jumlah_desa_berlistrik;302;unit
+11;Aceh;1108;Kabupaten Aceh Besar;2014;jumlah_desa_berlistrik;604;unit
+11;Aceh;1109;Kabupaten Pidie;2014;jumlah_desa_berlistrik;727;unit
+11;Aceh;1110;Kabupaten Bireuen;2014;jumlah_desa_berlistrik;609;unit
+11;Aceh;1111;Kabupaten Aceh Utara;2014;jumlah_desa_berlistrik;840;unit
+11;Aceh;1112;Kabupatan Aceh Barat Daya;2014;jumlah_desa_berlistrik;132;unit
+11;Aceh;1113;Kabupaten Gayo Lues;2014;jumlah_desa_berlistrik;118;unit
+11;Aceh;1114;Kabupaten Aceh Tamiang;2014;jumlah_desa_berlistrik;213;unit
+11;Aceh;1115;Kabupaten Nagan Raya;2014;jumlah_desa_berlistrik;209;unit
+11;Aceh;1116;Kabupaten Aceh Jaya;2014;jumlah_desa_berlistrik;149;unit
+11;Aceh;1117;Kabupaten Bener Meriah;2014;jumlah_desa_berlistrik;208;unit
+11;Aceh;1118;Kabupaten Pidie Jaya;2014;jumlah_desa_berlistrik;222;unit
+11;Aceh;1171;Kota Banda Aceh;2014;jumlah_desa_berlistrik;90;unit
+11;Aceh;1172;Kota Sabang;2014;jumlah_desa_berlistrik;18;unit
+11;Aceh;1173;Kota Langsa;2014;jumlah_desa_berlistrik;66;unit
+11;Aceh;1174;Kota Lhokseumawe;2014;jumlah_desa_berlistrik;68;unit
+11;Aceh;1175;Kota Subulussalam;2014;jumlah_desa_berlistrik;66;unit
+12;Aceh;1101;Kabupaten Simeulue;2016;jumlah_desa;139;unit
+13;Aceh;1102;Kabupaten Aceh Singkil;2016;jumlah_desa;116;unit
+14;Aceh;1103;Kabupaten Aceh Selatan;2016;jumlah_desa;247;unit
+15;Aceh;1104;Kabupaten Aceh Tenggara;2016;jumlah_desa;388;unit
+16;Aceh;1105;Kabupaten Aceh Timur;2016;jumlah_desa;522;unit
+17;Aceh;1106;Kabupaten Aceh Tengah;2016;jumlah_desa;273;unit
+18;Aceh;1107;Kabupaten Aceh Barat;2016;jumlah_desa;321;unit
+19;Aceh;1108;Kabupaten Aceh Besar;2016;jumlah_desa;609;unit
+20;Aceh;1109;Kabupaten Pidie;2016;jumlah_desa;735;unit
+21;Aceh;1110;Kabupaten Bireuen;2016;jumlah_desa;606;unit
+22;Aceh;1111;Kabupaten Aceh Utara;2016;jumlah_desa;855;unit
+23;Aceh;1112;Kabupatan Aceh Barat Daya;2016;jumlah_desa;133;unit
+24;Aceh;1113;Kabupaten Gayo Lues;2016;jumlah_desa;119;unit
+25;Aceh;1114;Kabupaten Aceh Tamiang;2016;jumlah_desa;216;unit
+26;Aceh;1115;Kabupaten Nagan Raya;2016;jumlah_desa;224;unit
+27;Aceh;1116;Kabupaten Aceh Jaya;2016;jumlah_desa;172;unit
+28;Aceh;1117;Kabupaten Bener Meriah;2016;jumlah_desa;252;unit
+29;Aceh;1118;Kabupaten Pidie Jaya;2016;jumlah_desa;222;unit
+30;Aceh;1171;Kota Banda Aceh;2016;jumlah_desa;91;unit
+31;Aceh;1172;Kota Sabang;2016;jumlah_desa;18;unit
+32;Aceh;1173;Kota Langsa;2016;jumlah_desa;51;unit
+33;Aceh;1174;Kota Lhokseumawe;2016;jumlah_desa;69;unit
+34;Aceh;1175;Kota Subulussalam;2016;jumlah_desa;74;unit
+35;Aceh;1101;Kabupaten Simeulue;2016;jumlah_desa_berlistrik;137;unit
+36;Aceh;1102;Kabupaten Aceh Singkil;2016;jumlah_desa_berlistrik;115;unit
+37;Aceh;1103;Kabupaten Aceh Selatan;2016;jumlah_desa_berlistrik;247;unit
+38;Aceh;1104;Kabupaten Aceh Tenggara;2016;jumlah_desa_berlistrik;382;unit
+39;Aceh;1105;Kabupaten Aceh Timur;2016;jumlah_desa_berlistrik;517;unit
+40;Aceh;1106;Kabupaten Aceh Tengah;2016;jumlah_desa_berlistrik;270;unit
+41;Aceh;1107;Kabupaten Aceh Barat;2016;jumlah_desa_berlistrik;321;unit
+42;Aceh;1108;Kabupaten Aceh Besar;2016;jumlah_desa_berlistrik;609;unit
+43;Aceh;1109;Kabupaten Pidie;2016;jumlah_desa_berlistrik;735;unit
+44;Aceh;1110;Kabupaten Bireuen;2016;jumlah_desa_berlistrik;606;unit
+45;Aceh;1111;Kabupaten Aceh Utara;2016;jumlah_desa_berlistrik;855;unit
+46;Aceh;1112;Kabupatan Aceh Barat Daya;2016;jumlah_desa_berlistrik;133;unit
+47;Aceh;1113;Kabupaten Gayo Lues;2016;jumlah_desa_berlistrik;119;unit
+48;Aceh;1114;Kabupaten Aceh Tamiang;2016;jumlah_desa_berlistrik;216;unit
+49;Aceh;1115;Kabupaten Nagan Raya;2016;jumlah_desa_berlistrik;223;unit
+50;Aceh;1116;Kabupaten Aceh Jaya;2016;jumlah_desa_berlistrik;171;unit
+51;Aceh;1117;Kabupaten Bener Meriah;2016;jumlah_desa_berlistrik;239;unit
+52;Aceh;1118;Kabupaten Pidie Jaya;2016;jumlah_desa_berlistrik;222;unit
+53;Aceh;1171;Kota Banda Aceh;2016;jumlah_desa_berlistrik;91;unit
+54;Aceh;1172;Kota Sabang;2016;jumlah_desa_berlistrik;18;unit
+55;Aceh;1173;Kota Langsa;2016;jumlah_desa_berlistrik;51;unit
+56;Aceh;1174;Kota Lhokseumawe;2016;jumlah_desa_berlistrik;69;unit
+57;Aceh;1175;Kota Subulussalam;2016;jumlah_desa_berlistrik;74;unit
+58;Aceh;1101;Kabupaten Simeulue;2017;jumlah_desa;;unit
+59;Aceh;1102;Kabupaten Aceh Singkil;2017;jumlah_desa;;unit
+60;Aceh;1103;Kabupaten Aceh Selatan;2017;jumlah_desa;;unit
+61;Aceh;1104;Kabupaten Aceh Tenggara;2017;jumlah_desa;;unit
+62;Aceh;1105;Kabupaten Aceh Timur;2017;jumlah_desa;;unit
+63;Aceh;1106;Kabupaten Aceh Tengah;2017;jumlah_desa;;unit
+64;Aceh;1107;Kabupaten Aceh Barat;2017;jumlah_desa;;unit
+65;Aceh;1108;Kabupaten Aceh Besar;2017;jumlah_desa;;unit
+66;Aceh;1109;Kabupaten Pidie;2017;jumlah_desa;;unit
+67;Aceh;1110;Kabupaten Bireuen;2017;jumlah_desa;;unit
+68;Aceh;1111;Kabupaten Aceh Utara;2017;jumlah_desa;;unit
+69;Aceh;1112;Kabupatan Aceh Barat Daya;2017;jumlah_desa;;unit
+70;Aceh;1113;Kabupaten Gayo Lues;2017;jumlah_desa;;unit
+71;Aceh;1114;Kabupaten Aceh Tamiang;2017;jumlah_desa;;unit
+72;Aceh;1115;Kabupaten Nagan Raya;2017;jumlah_desa;;unit
+73;Aceh;1116;Kabupaten Aceh Jaya;2017;jumlah_desa;;unit
+74;Aceh;1117;Kabupaten Bener Meriah;2017;jumlah_desa;;unit
+75;Aceh;1118;Kabupaten Pidie Jaya;2017;jumlah_desa;;unit
+76;Aceh;1171;Kota Banda Aceh;2017;jumlah_desa;;unit
+77;Aceh;1172;Kota Sabang;2017;jumlah_desa;;unit
+78;Aceh;1173;Kota Langsa;2017;jumlah_desa;;unit
+79;Aceh;1174;Kota Lhokseumawe;2017;jumlah_desa;;unit
+80;Aceh;1175;Kota Subulussalam;2017;jumlah_desa;;unit
+81;Aceh;1101;Kabupaten Simeulue;2017;jumlah_desa_berlistrik;;unit
+82;Aceh;1102;Kabupaten Aceh Singkil;2017;jumlah_desa_berlistrik;;unit
+83;Aceh;1103;Kabupaten Aceh Selatan;2017;jumlah_desa_berlistrik;;unit
+84;Aceh;1104;Kabupaten Aceh Tenggara;2017;jumlah_desa_berlistrik;;unit
+85;Aceh;1105;Kabupaten Aceh Timur;2017;jumlah_desa_berlistrik;;unit
+86;Aceh;1106;Kabupaten Aceh Tengah;2017;jumlah_desa_berlistrik;;unit
+87;Aceh;1107;Kabupaten Aceh Barat;2017;jumlah_desa_berlistrik;;unit
+88;Aceh;1108;Kabupaten Aceh Besar;2017;jumlah_desa_berlistrik;;unit
+89;Aceh;1109;Kabupaten Pidie;2017;jumlah_desa_berlistrik;;unit
+90;Aceh;1110;Kabupaten Bireuen;2017;jumlah_desa_berlistrik;;unit
+91;Aceh;1111;Kabupaten Aceh Utara;2017;jumlah_desa_berlistrik;;unit
+92;Aceh;1112;Kabupatan Aceh Barat Daya;2017;jumlah_desa_berlistrik;;unit
+93;Aceh;1113;Kabupaten Gayo Lues;2017;jumlah_desa_berlistrik;;unit
+94;Aceh;1114;Kabupaten Aceh Tamiang;2017;jumlah_desa_berlistrik;;unit
+95;Aceh;1115;Kabupaten Nagan Raya;2017;jumlah_desa_berlistrik;;unit
+96;Aceh;1116;Kabupaten Aceh Jaya;2017;jumlah_desa_berlistrik;;unit
+97;Aceh;1117;Kabupaten Bener Meriah;2017;jumlah_desa_berlistrik;;unit
+98;Aceh;1118;Kabupaten Pidie Jaya;2017;jumlah_desa_berlistrik;;unit
+99;Aceh;1171;Kota Banda Aceh;2017;jumlah_desa_berlistrik;;unit
+100;Aceh;1172;Kota Sabang;2017;jumlah_desa_berlistrik;;unit
+101;Aceh;1173;Kota Langsa;2017;jumlah_desa_berlistrik;;unit
+102;Aceh;1174;Kota Lhokseumawe;2017;jumlah_desa_berlistrik;;unit
+103;Aceh;1175;Kota Subulussalam;2017;jumlah_desa_berlistrik;;unit
+11;Aceh;1101;Kabupaten Simeulue;2022;jumlah_desa;138;unit
+11;Aceh;1102;Kabupaten Aceh Singkil;2022;jumlah_desa;116;unit
+11;Aceh;1103;Kabupaten Aceh Selatan;2022;jumlah_desa;260;unit
+11;Aceh;1104;Kabupaten Aceh Tenggara;2022;jumlah_desa;385;unit
+11;Aceh;1105;Kabupaten Aceh Timur;2022;jumlah_desa;513;unit
+11;Aceh;1106;Kabupaten Aceh Tengah;2022;jumlah_desa;295;unit
+11;Aceh;1107;Kabupaten Aceh Barat;2022;jumlah_desa;322;unit
+11;Aceh;1108;Kabupaten Aceh Besar;2022;jumlah_desa;604;unit
+11;Aceh;1109;Kabupaten Pidie;2022;jumlah_desa;730;unit
+11;Aceh;1110;Kabupaten Bireuen;2022;jumlah_desa;609;unit
+11;Aceh;1111;Kabupaten Aceh Utara;2022;jumlah_desa;852;unit
+11;Aceh;1112;Kabupatan Aceh Barat Daya;2022;jumlah_desa;152;unit
+11;Aceh;1113;Kabupaten Gayo Lues;2022;jumlah_desa;136;unit
+11;Aceh;1114;Kabupaten Aceh Tamiang;2022;jumlah_desa;216;unit
+11;Aceh;1115;Kabupaten Nagan Raya;2022;jumlah_desa;222;unit
+11;Aceh;1116;Kabupaten Aceh Jaya;2022;jumlah_desa;172;unit
+11;Aceh;1117;Kabupaten Bener Meriah;2022;jumlah_desa;232;unit
+11;Aceh;1118;Kabupaten Pidie Jaya;2022;jumlah_desa;222;unit
+11;Aceh;1171;Kota Banda Aceh;2022;jumlah_desa;90;unit
+11;Aceh;1172;Kota Sabang;2022;jumlah_desa;18;unit
+11;Aceh;1173;Kota Langsa;2022;jumlah_desa;66;unit
+11;Aceh;1174;Kota Lhokseumawe;2022;jumlah_desa;68;unit
+11;Aceh;1175;Kota Subulussalam;2022;jumlah_desa;82;unit
+11;Aceh;1101;Kabupaten Simeulue;2022;jumlah_desa_berlistrik;138;unit
+11;Aceh;1102;Kabupaten Aceh Singkil;2022;jumlah_desa_berlistrik;116;unit
+11;Aceh;1103;Kabupaten Aceh Selatan;2022;jumlah_desa_berlistrik;260;unit
+11;Aceh;1104;Kabupaten Aceh Tenggara;2022;jumlah_desa_berlistrik;385;unit
+11;Aceh;1105;Kabupaten Aceh Timur;2022;jumlah_desa_berlistrik;513;unit
+11;Aceh;1106;Kabupaten Aceh Tengah;2022;jumlah_desa_berlistrik;295;unit
+11;Aceh;1107;Kabupaten Aceh Barat;2022;jumlah_desa_berlistrik;322;unit
+11;Aceh;1108;Kabupaten Aceh Besar;2022;jumlah_desa_berlistrik;604;unit
+11;Aceh;1109;Kabupaten Pidie;2022;jumlah_desa_berlistrik;730;unit
+11;Aceh;1110;Kabupaten Bireuen;2022;jumlah_desa_berlistrik;609;unit
+11;Aceh;1111;Kabupaten Aceh Utara;2022;jumlah_desa_berlistrik;852;unit
+11;Aceh;1112;Kabupatan Aceh Barat Daya;2022;jumlah_desa_berlistrik;152;unit
+11;Aceh;1113;Kabupaten Gayo Lues;2022;jumlah_desa_berlistrik;136;unit
+11;Aceh;1114;Kabupaten Aceh Tamiang;2022;jumlah_desa_berlistrik;216;unit
+11;Aceh;1115;Kabupaten Nagan Raya;2022;jumlah_desa_berlistrik;222;unit
+11;Aceh;1116;Kabupaten Aceh Jaya;2022;jumlah_desa_berlistrik;172;unit
+11;Aceh;1117;Kabupaten Bener Meriah;2022;jumlah_desa_berlistrik;232;unit
+11;Aceh;1118;Kabupaten Pidie Jaya;2022;jumlah_desa_berlistrik;222;unit
+11;Aceh;1171;Kota Banda Aceh;2022;jumlah_desa_berlistrik;90;unit
+11;Aceh;1172;Kota Sabang;2022;jumlah_desa_berlistrik;18;unit
+11;Aceh;1173;Kota Langsa;2022;jumlah_desa_berlistrik;66;unit
+11;Aceh;1174;Kota Lhokseumawe;2022;jumlah_desa_berlistrik;68;unit
+11;Aceh;1175;Kota Subulussalam;2022;jumlah_desa_berlistrik;82;unit
+;;1101;Kabupaten Simeulue;2024;jumlah_desa;138;unit
+;;1102;Kabupaten Aceh Singkil;2024;jumlah_desa;116;unit
+;;1103;Kabupaten Aceh Selatan;2024;jumlah_desa;260;unit
+;;1104;Kabupaten Aceh Tenggara;2024;jumlah_desa;385;unit
+;;1105;Kabupaten Aceh Timur;2024;jumlah_desa;513;unit
+;;1106;Kabupaten Aceh Tengah;2024;jumlah_desa;295;unit
+;;1107;Kabupaten Aceh Barat;2024;jumlah_desa;322;unit
+;;1108;Kabupaten Aceh Besar;2024;jumlah_desa;604;unit
+;;1109;Kabupaten Pidie;2024;jumlah_desa;730;unit
+;;1110;Kabupaten Bireuen;2024;jumlah_desa;609;unit
+;;1111;Kabupaten Aceh Utara;2024;jumlah_desa;852;unit
+;;1112;Kabupatan Aceh Barat Daya;2024;jumlah_desa;152;unit
+;;1113;Kabupaten Gayo Lues;2024;jumlah_desa;136;unit
+;;1114;Kabupaten Aceh Tamiang;2024;jumlah_desa;216;unit
+;;1115;Kabupaten Nagan Raya;2024;jumlah_desa;222;unit
+;;1116;Kabupaten Aceh Jaya;2024;jumlah_desa;172;unit
+;;1117;Kabupaten Bener Meriah;2024;jumlah_desa;232;unit
+;;1118;Kabupaten Pidie Jaya;2024;jumlah_desa;222;unit
+;;1171;Kota Banda Aceh;2024;jumlah_desa;90;unit
+;;1172;Kota Sabang;2024;jumlah_desa;18;unit
+;;1173;Kota Langsa;2024;jumlah_desa;66;unit
+;;1174;Kota Lhokseumawe;2024;jumlah_desa;68;unit
+;;1175;Kota Subulussalam;2024;jumlah_desa;82;unit
+;;1101;Kabupaten Simeulue;2024;jumlah_desa_berlistrik;138;unit
+;;1102;Kabupaten Aceh Singkil;2024;jumlah_desa_berlistrik;116;unit
+;;1103;Kabupaten Aceh Selatan;2024;jumlah_desa_berlistrik;260;unit
+;;1104;Kabupaten Aceh Tenggara;2024;jumlah_desa_berlistrik;385;unit
+;;1105;Kabupaten Aceh Timur;2024;jumlah_desa_berlistrik;513;unit
+;;1106;Kabupaten Aceh Tengah;2024;jumlah_desa_berlistrik;295;unit
+;;1107;Kabupaten Aceh Barat;2024;jumlah_desa_berlistrik;322;unit
+;;1108;Kabupaten Aceh Besar;2024;jumlah_desa_berlistrik;604;unit
+;;1109;Kabupaten Pidie;2024;jumlah_desa_berlistrik;730;unit
+;;1110;Kabupaten Bireuen;2024;jumlah_desa_berlistrik;609;unit
+;;1111;Kabupaten Aceh Utara;2024;jumlah_desa_berlistrik;852;unit
+;;1112;Kabupatan Aceh Barat Daya;2024;jumlah_desa_berlistrik;152;unit
+;;1113;Kabupaten Gayo Lues;2024;jumlah_desa_berlistrik;136;unit
+;;1114;Kabupaten Aceh Tamiang;2024;jumlah_desa_berlistrik;216;unit
+;;1115;Kabupaten Nagan Raya;2024;jumlah_desa_berlistrik;222;unit
+;;1116;Kabupaten Aceh Jaya;2024;jumlah_desa_berlistrik;172;unit
+;;1117;Kabupaten Bener Meriah;2024;jumlah_desa_berlistrik;232;unit
+;;1118;Kabupaten Pidie Jaya;2024;jumlah_desa_berlistrik;222;unit
+;;1171;Kota Banda Aceh;2024;jumlah_desa_berlistrik;90;unit
+;;1172;Kota Sabang;2024;jumlah_desa_berlistrik;18;unit
+;;1173;Kota Langsa;2024;jumlah_desa_berlistrik;66;unit
+;;1174;Kota Lhokseumawe;2024;jumlah_desa_berlistrik;68;unit
+;;1175;Kota Subulussalam;2024;jumlah_desa_berlistrik;82;unit

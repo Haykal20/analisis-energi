@@ -1,0 +1,10 @@
+├── database.db
+├── data-izin-usaha-pertambangan.csv
+├── dump.txt
+├── jumlah-desa-dan-desa-yang-berlistrik-menurut-kabupaten-kota-di-provinsi.csv
+├── jumlah-kwh-yang-dibangkitkan-pt.-pln-persero-wilayah-aceh-1998-2024.csv
+├── query1.sql
+├── query2.sql
+└── struktur.txt
+
+1 directory, 8 files
