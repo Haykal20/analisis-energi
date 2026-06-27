@@ -7,7 +7,7 @@
 
 ## 📌 Daftar Isi
 
-- [Ringkasan Proyek](#ringkasan-proyek)
+- [Ringkasan Proyek](#-ringkasan-proyek)
 - [Entity Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
 - [Tema & Dataset](#tema--dataset)
 - [Pertanyaan Analitik](#pertanyaan-analitik)
