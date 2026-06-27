@@ -12,16 +12,16 @@
 - [Tema & Dataset](#-tema--dataset)
 - [Pertanyaan Analitik](#-pertanyaan-analitik)
 - [Instalasi Tools](#-instalasi-tools)
-- [Setup Database](#-setup-database)
+- [Setup Database](#️-setup-database)
 - [Struktur Database](#-struktur-database)
-- [Query SQL & Analisis](#q-uery-sql--analisis)
-  - [Pertanyaan 1: Daerah dengan Tambang Terbanyak](#-pertanyaan-1-daerah-dengan-tambang-terbanyak)
-  - [Pertanyaan 2: Tren Tambang vs Produksi Listrik PLN](#-pertanyaan-2-tren-tambang-vs-produksi-listrik-pln)
-  - [Pertanyaan 3: Rasio Desa Berlistrik di Pusat Operasi Tambang](#-pertanyaan-3-rasio-desa-berlistrik-di-pusat-operasi-tambang)
-- [Hasil Eksekusi Query](#h-asil-eksekusi-query)
+- [Query SQL & Analisis](#-query-sql--analisis)
+  - [Pertanyaan 1: Daerah dengan Tambang Terbanyak](#pertanyaan-1-daerah-dengan-tambang-terbanyak)
+  - [Pertanyaan 2: Tren Tambang vs Produksi Listrik PLN](#pertanyaan-2-tren-tambang-vs-produksi-listrik-pln)
+  - [Pertanyaan 3: Rasio Desa Berlistrik di Pusat Operasi Tambang](#pertanyaan-3-rasio-desa-berlistrik-di-pusat-operasi-tambang)
+- [Hasil Eksekusi Query](#-hasil-eksekusi-query)
 - [Hasil & Insight](#-hasil--insight)
 - [Struktur File](#-struktur-file)
-- [Cara Menjalankan Query](#c-ara-menjalankan-query)
+- [Cara Menjalankan Query](#-cara-menjalankan-query)
 - [Tim Pengembang](#-tim-pengembang)
 - [Lisensi](#-lisensi)
 
@@ -591,8 +591,6 @@ Proyek ini dibuat untuk keperluan **tugas akademik** dan bersifat open-source. D
 - Seluruh anggota kelompok atas kerjasama dan dedikasi.
 
 ---
-
-> **"Data is the new oil — but only if you know how to refine it."**
 
 📬 **Kontak:** Untuk pertanyaan lebih lanjut, silakan buka *issue* di repository ini atau hubungi dosen pengampu.
 
